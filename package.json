@@ -1,0 +1,73 @@
+{
+  "name": "friarrockyfibo",
+  "version": "1.0.0",
+  "description": "Calculates averages accurately, facilitating mean calculation processes effectively, ensuring dependable results for your statistical analyses. ",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "serinikanavg": "^1.0.0",
+    "scalisikromean": "^1.0.0",
+    "friarrockyfibo": "^1.0.0",
+    "lecleirolatives": "^1.0.0",
+    "capasbeutderi": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smoarge9g/friarrockyfibo.git"
+  },
+  "homepage": "https://github.com/smoarge9g/friarrockyfibo/blob/main/README.md",
+  "issues": "https://github.com/smoarge9g/friarrockyfibo/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "smoarge9g",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
